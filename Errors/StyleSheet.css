@@ -1,0 +1,21 @@
+﻿body {background-color:#000000;
+}
+
+#centras{ margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+#centras2{text-align:center;margin:auto;margin-top:110px;
+          color:#fff;
+          font-family: 'Oxygen', sans-serif;
+}
+
+#text404 {
+    color:#fff;
+    margin:auto;
+    padding-top:70px;
+    font-size:70px;
+    font-family: 'Oxygen', sans-serif;
+
+}
